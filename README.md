@@ -7,9 +7,9 @@ Welcome to my SQL repository — a space where I explore database logic, structu
 ---
 
 ![Languages](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Editor](https://img.shields.io/badge/Editor-DBeaver-orange?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/AmulyaInnovates/sql-repo?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/AmulyaInnovates/sql-repo?style=for-the-badge)
+![Editor](https://img.shields.io/badge/Editor-Amulya-Gupta-orange?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/AmulyaInnovates/SQL?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/AmulyaInnovates/SQL?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
@@ -26,7 +26,7 @@ Welcome to my SQL repository — a space where I explore database logic, structu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AmulyaInnovates/sql-repo.git
+   git clone https://github.com/AmulyaInnovates/SQL.git
    ```
 2. Open `.sql` files in your preferred SQL editor.
 3. Run, analyze, or adapt queries for your own projects.
