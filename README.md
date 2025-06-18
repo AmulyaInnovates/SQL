@@ -7,7 +7,6 @@ Welcome to my SQL repository — a space where I explore database logic, structu
 ---
 
 ![Languages](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Editor](https://img.shields.io/badge/Editor-Amulya-Gupta-orange?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/AmulyaInnovates/SQL?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/AmulyaInnovates/SQL?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
