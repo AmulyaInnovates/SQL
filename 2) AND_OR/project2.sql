@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS Customer;
-
 CREATE TABLE Customer (
     S_No INTEGER PRIMARY KEY,
     Name TEXT,
